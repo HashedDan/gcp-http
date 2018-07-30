@@ -1,0 +1,4 @@
+# Ignore Terraform artifacts
+.terraform
+*.tfstate
+*.tfstate.backup
